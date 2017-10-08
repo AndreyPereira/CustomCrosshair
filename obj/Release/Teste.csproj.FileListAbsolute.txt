@@ -1,0 +1,9 @@
+C:\Users\Andrey\Desktop\Teste\Teste\obj\Release\Teste.csproj.GenerateResource.Cache
+C:\Users\Andrey\Desktop\Teste\Teste\obj\Release\CustomCrosshair.Properties.Resources.resources
+C:\Users\Andrey\Desktop\Teste\Teste\obj\Release\CustomCrosshair.FrmCrossHair.resources
+C:\Users\Andrey\Desktop\Teste\Teste\obj\Release\CustomCrosshair.FrmMain.resources
+C:\Users\Andrey\Desktop\Teste\Teste\bin\Release\Custom Crosshair.exe.config
+C:\Users\Andrey\Desktop\Teste\Teste\bin\Release\Custom Crosshair.exe
+C:\Users\Andrey\Desktop\Teste\Teste\bin\Release\Custom Crosshair.pdb
+C:\Users\Andrey\Desktop\Teste\Teste\obj\Release\Custom Crosshair.exe
+C:\Users\Andrey\Desktop\Teste\Teste\obj\Release\Custom Crosshair.pdb

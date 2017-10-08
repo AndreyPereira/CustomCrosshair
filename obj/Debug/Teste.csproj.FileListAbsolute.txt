@@ -1,0 +1,10 @@
+C:\Users\Andrey\Desktop\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\Andrey\Desktop\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\Andrey\Desktop\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\Andrey\Desktop\Teste\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Desktop\Teste\Teste\obj\Debug\Teste.FrmCrossHair.resources
+C:\Users\Andrey\Desktop\Teste\Teste\obj\Debug\Teste.FrmMain.resources
+C:\Users\Andrey\Desktop\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\Andrey\Desktop\Teste\Teste\obj\Debug\Teste.csproj.GenerateResource.Cache
+C:\Users\Andrey\Desktop\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\Andrey\Desktop\Teste\Teste\obj\Debug\Teste.pdb
